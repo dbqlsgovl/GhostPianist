@@ -1,0 +1,161 @@
+[
+	{
+		"type": 0,
+		"bpm": 168,
+		"length": 38,
+		"Name": "Waltz of chicks",
+		"Audiences": [ 3, 2, 1, 0 ]
+	},
+	{"type" : 1, "lane" : 0, "beat" : 4},
+	{"type" : 1, "lane" : 2, "beat" : 5},
+	{"type" : 1, "lane" : 3, "beat" : 5},
+	{"type" : 1, "lane" : 2, "beat" : 6},
+	{"type" : 1, "lane" : 3, "beat" : 6},
+
+	{"type" : 1, "lane" : 0, "beat" : 7},
+	{"type" : 1, "lane" : 1, "beat" : 8},
+	{"type" : 1, "lane" : 2, "beat" : 9},
+
+	{"type" : 1, "lane" : 0, "beat" : 10},
+	{"type" : 1, "lane" : 3, "beat" : 10},
+	{"type" : 1, "lane" : 2, "beat" : 11},
+	{"type" : 1, "lane" : 3, "beat" : 11},
+	{"type" : 1, "lane" : 2, "beat" : 12},
+	{"type" : 1, "lane" : 3, "beat" : 12},
+
+	{"type" : 1, "lane" : 1, "beat" : 13},
+	{"type" : 1, "lane" : 2, "beat" : 14},
+	{"type" : 1, "lane" : 3, "beat" : 14},
+	{"type" : 1, "lane" : 2, "beat" : 15},
+	{"type" : 1, "lane" : 3, "beat" : 15},
+
+	{"type" : 1, "lane" : 0, "beat" : 16},
+	{"type" : 1, "lane" : 2, "beat" : 17},
+	{"type" : 1, "lane" : 3, "beat" : 17},
+	{"type" : 1, "lane" : 2, "beat" : 18},
+	{"type" : 1, "lane" : 3, "beat" : 18},
+
+	{"type" : 1, "lane" : 0, "beat" : 19},
+	{"type" : 1, "lane" : 1, "beat" : 19.25},
+	{"type" : 1, "lane" : 1, "beat" : 20},
+	{"type" : 1, "lane" : 2, "beat" : 20.25},
+	{"type" : 1, "lane" : 2, "beat" : 21},
+	{"type" : 1, "lane" : 3, "beat" : 21.25},
+
+	{"type" : 1, "lane" : 0, "beat" : 22},
+	{"type" : 1, "lane" : 3, "beat" : 22.25},
+	{"type" : 1, "lane" : 2, "beat" : 23},
+	{"type" : 1, "lane" : 3, "beat" : 23},
+	{"type" : 1, "lane" : 2, "beat" : 24},
+
+	{"type" : 1, "lane" : 3, "beat" : 25},
+	{"type" : 1, "lane" : 0, "beat" : 25.5},
+	{"type" : 1, "lane" : 1, "beat" : 26},
+	{"type" : 1, "lane" : 2, "beat" : 26.5},
+	{"type" : 1, "lane" : 1, "beat" : 27},
+	{"type" : 1, "lane" : 3, "beat" : 27.5},
+
+	{"type" : 1, "lane" : 2, "beat" : 28},
+
+	{"type" : 1, "lane" : 1, "beat" : 30},
+	{"type" : 1, "lane" : 2, "beat" : 31},
+	{"type" : 1, "lane" : 0, "beat" : 31.5},
+	{"type" : 1, "lane" : 1, "beat" : 32},
+	{"type" : 1, "lane" : 2, "beat" : 32.5},
+	{"type" : 1, "lane" : 1, "beat" : 33},
+	{"type" : 1, "lane" : 3, "beat" : 33.5},
+
+	{"type" : 1, "lane" : 2, "beat" : 34},
+	{"type" : 1, "lane" : 1, "beat" : 36},
+	{"type" : 1, "lane" : 1, "beat" : 37},
+
+	{"type" : 1, "lane" : 0, "beat" : 39},
+	{"type" : 1, "lane" : 1, "beat" : 39.5},
+	{"type" : 1, "lane" : 2, "beat" : 40},
+	{"type" : 1, "lane" : 3, "beat" : 42},
+	{"type" : 1, "lane" : 2, "beat" : 43},
+	{"type" : 1, "lane" : 2, "beat" : 45},
+	{"type" : 1, "lane" : 1, "beat" : 46},
+
+
+
+	{"type" : 1, "lane" : 1, "beat" : 49},
+	{"type" : 1, "lane" : 2, "beat" : 50},
+	{"type" : 1, "lane" : 3, "beat" : 50},
+	{"type" : 1, "lane" : 2, "beat" : 51},
+	{"type" : 1, "lane" : 3, "beat" : 51},
+
+	{"type" : 1, "lane" : 0, "beat" : 52},
+	{"type" : 1, "lane" : 2, "beat" : 53},
+	{"type" : 1, "lane" : 3, "beat" : 53},
+	{"type" : 1, "lane" : 2, "beat" : 54},
+	{"type" : 1, "lane" : 3, "beat" : 54},
+
+	{"type" : 1, "lane" : 0, "beat" : 55},
+	{"type" : 1, "lane" : 1, "beat" : 56},
+	{"type" : 1, "lane" : 2, "beat" : 57},
+
+	{"type" : 1, "lane" : 0, "beat" : 58},
+	{"type" : 1, "lane" : 3, "beat" : 58},
+	{"type" : 1, "lane" : 2, "beat" : 59},
+	{"type" : 1, "lane" : 3, "beat" : 59},
+	{"type" : 1, "lane" : 2, "beat" : 60},
+	{"type" : 1, "lane" : 3, "beat" : 60},
+
+	{"type" : 1, "lane" : 1, "beat" : 61},
+	{"type" : 1, "lane" : 2, "beat" : 62},
+	{"type" : 1, "lane" : 3, "beat" : 62},
+	{"type" : 1, "lane" : 2, "beat" : 63},
+	{"type" : 1, "lane" : 3, "beat" : 63},
+
+	{"type" : 1, "lane" : 0, "beat" : 64},
+	{"type" : 1, "lane" : 2, "beat" : 65},
+	{"type" : 1, "lane" : 3, "beat" : 65},
+	{"type" : 1, "lane" : 2, "beat" : 66},
+	{"type" : 1, "lane" : 3, "beat" : 66},
+
+	{"type" : 1, "lane" : 0, "beat" : 67},
+	{"type" : 1, "lane" : 1, "beat" : 67.25},
+	{"type" : 1, "lane" : 1, "beat" : 68},
+	{"type" : 1, "lane" : 2, "beat" : 68.25},
+	{"type" : 1, "lane" : 2, "beat" : 69},
+	{"type" : 1, "lane" : 3, "beat" : 69.25},
+
+	{"type" : 1, "lane" : 0, "beat" : 70},
+	{"type" : 1, "lane" : 3, "beat" : 70.25},
+	{"type" : 1, "lane" : 2, "beat" : 71},
+	{"type" : 1, "lane" : 3, "beat" : 71},
+	{"type" : 1, "lane" : 2, "beat" : 72},
+
+	{"type" : 1, "lane" : 3, "beat" : 73},
+	{"type" : 1, "lane" : 0, "beat" : 73.5},
+	{"type" : 1, "lane" : 1, "beat" : 74},
+	{"type" : 1, "lane" : 2, "beat" : 74.5},
+	{"type" : 1, "lane" : 1, "beat" : 75},
+	{"type" : 1, "lane" : 3, "beat" : 75.5},
+
+	{"type" : 1, "lane" : 2, "beat" : 76},
+
+	{"type" : 1, "lane" : 1, "beat" : 78},
+	{"type" : 1, "lane" : 2, "beat" : 79},
+	{"type" : 1, "lane" : 0, "beat" : 79.5},
+	{"type" : 1, "lane" : 1, "beat" : 80},
+	{"type" : 1, "lane" : 2, "beat" : 80.5},
+	{"type" : 1, "lane" : 1, "beat" : 81},
+	{"type" : 1, "lane" : 3, "beat" : 81.5},
+
+	{"type" : 1, "lane" : 2, "beat" : 82},
+	{"type" : 1, "lane" : 1, "beat" : 84},
+	{"type" : 1, "lane" : 1, "beat" : 85},
+
+	{"type" : 1, "lane" : 0, "beat" : 87},
+	{"type" : 1, "lane" : 1, "beat" : 87.5},
+	{"type" : 1, "lane" : 2, "beat" : 88},
+	{"type" : 1, "lane" : 3, "beat" : 90},
+	{"type" : 1, "lane" : 3, "beat" : 91},
+	{"type" : 1, "lane" : 2, "beat" : 91},
+	{"type" : 1, "lane" : 2, "beat" : 92},
+	{"type" : 1, "lane" : 1, "beat" : 92},
+	{"type" : 1, "lane" : 1, "beat" : 93},
+	{"type" : 1, "lane" : 0, "beat" : 94}
+]
