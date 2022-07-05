@@ -6,7 +6,16 @@
  * 마을을 돌아다니며 주민들로부터 악보를 받고, 피아노에서 V를 눌러 리듬게임을 플레이할 수 있습니다.
  * 리듬게임은 하단의 판정선에 노트가 내려오는 타이밍에 맞춰 D, F, J, K 키를 눌러 진행할 수 있습니다. 
  * 타이밍을 정확하게 맞출 수록 스코어를 많이 받습니다.
- 
+
+### 게임 화면
+ * 곡 획득
+![곡 획득](https://user-images.githubusercontent.com/45508494/177254448-9af59d50-a4a7-45c9-9ad1-0e92fa1647f4.gif)
+
+ * 리듬게임
+![리듬게임](https://user-images.githubusercontent.com/45508494/177254259-b9b722f8-5602-4e43-95c1-d7aee087f977.gif)
+
+
+
 ## 리소스 출처
 ### Asset Store 
   - 15 low poly models, 
