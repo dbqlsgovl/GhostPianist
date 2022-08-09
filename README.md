@@ -8,8 +8,8 @@
  * 타이밍을 정확하게 맞출 수록 스코어를 많이 받습니다.
 
 ### 게임 화면
-* 플레이 영상 링크
-- https://youtu.be/RitZhrfNZL4
+* 플레이 영상
+ https://youtu.be/RitZhrfNZL4
 * 곡 획득
 ![곡 획득](https://user-images.githubusercontent.com/45508494/177254448-9af59d50-a4a7-45c9-9ad1-0e92fa1647f4.gif)
 
