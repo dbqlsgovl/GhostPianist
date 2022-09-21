@@ -9,7 +9,7 @@
 
 ### 게임 화면
 * 플레이 영상
- https://youtu.be/RitZhrfNZL4
+ https://youtu.be/0PO1EkuLD4k
 * 곡 획득
 ![곡 획득](https://user-images.githubusercontent.com/45508494/177254448-9af59d50-a4a7-45c9-9ad1-0e92fa1647f4.gif)
 
